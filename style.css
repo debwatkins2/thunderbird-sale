@@ -1,0 +1,31 @@
+* {
+  background-color: black;
+  font-family: 'Antic Didone', serif;
+
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 300;
+}
+
+img{
+  width: 80%;
+  height: auto;
+  margin-left: 140px;
+}
+
+p {
+  color: white;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+button {
+  width: 150px;
+  height: 40px;
+  margin-left: 170px;
+  color: white;
+  font-size: 1.5rem;
+}
